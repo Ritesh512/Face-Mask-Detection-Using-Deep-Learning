@@ -9,8 +9,8 @@
 7. Happy Journey!! 
 ```
 ## Read The Published Paper
-```
 # Abstract
+```
 Detecting the faces with mask in efficient way is becoming incredibly valuable, as it can be used in COVID-19
 situation as well as it can play a major role to follow and identify criminals or terrorists. Because of the high occlusions
 that result in the loss of face information, masked face identification is a far more difficult process. The proposed scheme
