@@ -20,5 +20,5 @@ that is capable of accurately predicting a person has wear a mask and not, as we
 the image. Categorical cross-entropy is applied as a loss function. The proposed model's validation accuracy is 97.45
 percent. Anyone on the live stream who is not wearing a mask has a rectangle around their face that is red, with the dialogue
 "NO MASK," while anyone who is wearing a mask gets a rectangle around their face that is green.
-<a href="https://pubs.aip.org/aip/acp/article/2901/1/060012/2929936/Cascade-face-classification-framework-based-mask?searchresult=1">Read More....</a>
 ```
+## <a href="https://pubs.aip.org/aip/acp/article/2901/1/060012/2929936/Cascade-face-classification-framework-based-mask?searchresult=1">Click here for Demo </a>
